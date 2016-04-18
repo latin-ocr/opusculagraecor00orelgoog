@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculagraecor00orelgoog_0133.png"; bbox 0 0 2813 4770; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 230 1196 2352 1723">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 230 1196 2352 1723">
+     <span class='ocr_line' id='line_1_1' title="bbox 578 1196 1822 1439; baseline -0.002 -36"><span class='ocrx_word' id='word_1_1' title='bbox 578 1336 623 1439; x_wconf 67' lang='lat'>4</span> <span class='ocrx_word' id='word_1_2' title='bbox 676 1196 1692 1405; x_wconf 62' lang='lat' dir='ltr'><strong>Affmoz&#39;fmro</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1733 1304 1822 1401; x_wconf 76' lang='lat' dir='ltr'><strong>Y·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 230 1479 2352 1723; baseline 0.001 -64"><span class='ocrx_word' id='word_1_4' title='bbox 230 1479 529 1663; x_wconf 57' lang='lat'><strong>&#39;1⁴0</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 610 1479 709 1665; x_wconf 57' lang='grc' dir='ltr'><em>ἲ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 900 1518 2352 1723; x_wconf 54' lang='grc' dir='ltr'><em>ΦΙΛΟΣΟΦΟΥ·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 726 1826 1742 1889">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 726 1826 1742 1889">
+     <span class='ocr_line' id='line_1_3' title="bbox 726 1826 1742 1889; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 726 1826 925 1889; x_wconf 74' lang='grc' dir='ltr'><strong>-ΤΑ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1052 1826 1742 1889; x_wconf 70' lang='grc' dir='ltr'><strong>ΔΕΙΨΑΝΑ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1046 2040 1460 2063">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1046 2040 1460 2063">
+     <span class='ocr_line' id='line_1_4' title="bbox 1046 2040 1460 2063; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1046 2040 1460 2063; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 278 2290 2234 2432">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 278 2290 2234 2432">
+     <span class='ocr_line' id='line_1_5' title="bbox 278 2290 2234 2432; baseline 0.001 -4"><span class='ocrx_word' id='word_1_10' title='bbox 278 2290 1209 2431; x_wconf 77' lang='lat' dir='ltr'>DEMOCRITI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1259 2316 2234 2432; x_wconf 84' lang='lat' dir='ltr'>PHILOSOPHI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 486 2579 1770 2676">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 486 2579 1770 2676">
+     <span class='ocr_line' id='line_1_6' title="bbox 486 2579 1770 2676; baseline -0.002 -25"><span class='ocrx_word' id='word_1_12' title='bbox 486 2669 493 2676; x_wconf 37' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 740 2579 1770 2662; x_wconf 64' lang='lat' dir='ltr'><strong>FRAGMENTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1102 2899 1414 2920">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1102 2899 1414 2920">
+     <span class='ocr_line' id='line_1_7' title="bbox 1102 2899 1414 2920; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 1102 2899 1414 2920; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

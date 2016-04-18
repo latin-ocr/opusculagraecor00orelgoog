@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculagraecor00orelgoog_0251.png"; bbox 0 0 2813 4770; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 158 1346 2360 1726">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 158 1346 2360 1726">
+     <span class='ocr_line' id='line_1_1' title="bbox 868 1346 1397 1463; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 868 1392 875 1399; x_wconf 83' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1087 1408 1259 1463; x_wconf 70' lang='lat' dir='ltr'><strong><em>ror</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1372 1346 1397 1395; x_wconf 32' lang='lat'><strong><em>&#39;⁴</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 158 1566 2360 1726; baseline -0.001 -47"><span class='ocrx_word' id='word_1_4' title='bbox 158 1566 2228 1726; x_wconf 60' lang='lat' dir='ltr'><strong><em>AGHN&#39;4·I⁰15‚2b.⁴.²⁵0‡</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2353 1698 2360 1707; x_wconf 34' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 749 1826 1556 1899">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 749 1826 1556 1899">
+     <span class='ocr_line' id='line_1_3' title="bbox 749 1826 1556 1899; baseline -0.006 -10"><span class='ocrx_word' id='word_1_6' title='bbox 749 1826 1556 1899; x_wconf 43' lang='lat' dir='ltr'><strong><em>lsN-szMAI.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 957 2082 1374 2101">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 957 2082 1374 2101">
+     <span class='ocr_line' id='line_1_4' title="bbox 957 2082 1374 2101; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 957 2082 1374 2101; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 162 2618 2242 2734">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 162 2618 2242 2734">
+     <span class='ocr_line' id='line_1_5' title="bbox 162 2618 2242 2734; baseline -0 -46"><span class='ocrx_word' id='word_1_8' title='bbox 162 2618 1137 2734; x_wconf 20' lang='lat' dir='ltr'><strong>ATHENIENUSIS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1288 2621 2242 2696; x_wconf 76' lang='lat' dir='ltr'>PHILOSOPHI,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 694 2789 1620 2882">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 694 2789 1620 2882">
+     <span class='ocr_line' id='line_1_6' title="bbox 694 2789 1620 2882; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 694 2789 1620 2882; x_wconf 63' lang='lat' dir='ltr'><strong>SENTENTIAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 957 3095 1371 3116">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 957 3095 1371 3116">
+     <span class='ocr_line' id='line_1_7' title="bbox 957 3095 1371 3116; baseline 0 1654"><span class='ocrx_word' id='word_1_11' title='bbox 957 3095 1371 3116; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
